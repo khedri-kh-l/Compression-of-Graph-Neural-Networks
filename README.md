@@ -1,4 +1,4 @@
-Create ReadMe.md
+
 Pruning and Quantization Impact on Graph Neural Networks
 
 ## Overview
