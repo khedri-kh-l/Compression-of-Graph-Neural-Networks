@@ -6,6 +6,16 @@ Compression algorithms in neural networks are essential for reducing the model s
 
 We empirically examine the effects of magnitude-based pruning methods such as regularization, fine-grain, and global unstructured pruning and Activation-Aware weight (AWQ) and Aggregation-Aware mixed-precision Quantization($A^2Q$) methods on some different GNN models applied to three graph datasets involving Cora, Proteins, and BBBP.
 
+### Requirements
+
+    python==3.10.6
+    dgl==1.1.2
+    pytorch==2.0.1+cpu
+    torch-scatter==2.1.1+pt20cpu
+    torch-sparse==0.6.17
+    torch-geometric==2.4.0
+
+    
 ## Contact
 
 If you have any technical questions, please submit a new issue.
