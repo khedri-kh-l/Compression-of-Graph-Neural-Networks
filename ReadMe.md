@@ -1,4 +1,5 @@
-\title{Pruning and Quantization Impact on Graph Neural Networks}
+Pruning and Quantization Impact on Graph Neural Networks
+-----------------------------------------------------
 
 ## Overview
 
