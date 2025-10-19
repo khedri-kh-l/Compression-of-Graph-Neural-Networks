@@ -10,9 +10,10 @@ Graph neural networks (GNNs) are known to operate with high accuracy on learning
 If you have any technical questions, please submit a new issue.
 
 If you have other questions, please contact us:
-Khatoon.l Khedri [khedri.kh.l@gmail.com] \\
 
- Qifu Wen [qfwen@bu.edu] \\
+Khatoon.l Khedri [khedri.kh.l@gmail.com] 
+
+Qifu Wen [qfwen@bu.edu] 
  
 Reza Rawassizadeh [Rezar@bu.edu].
 
